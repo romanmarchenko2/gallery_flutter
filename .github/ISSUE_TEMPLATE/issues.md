@@ -2,7 +2,7 @@
 name: Issues
 about: Set up
 title: ''
-labels: ''
+labels: bug, enhancement
 assignees: ''
 
 ---
